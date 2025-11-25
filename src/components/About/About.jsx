@@ -41,7 +41,7 @@ const About = () => {
           </h3>
           {/* About Me Paragraph */}
           <p className="text-base sm:text-lg md:text-lg text-gray-400 mb-10 mt-8 leading-relaxed">
-           I'm "Mustakim Nur Salin" Aka "RealCodeMind"... I'm A Teenager Boy Who Loves To Code. I Started Coding As A Hobby. I Know Much Of Web Development. I Do Only Frontend Coding. I Usually Use HTML, CSS And JavaScript For Frontend. I'm Creative Director And UI/UX Designer From Dhaka, Bangladesh, Working In Web Development And Print Media. I Enjoy Turning Complex Problems Into Simple, Beautiful And Intuitive Designs. My Job Is To Build Your Website So That It Is Functional And User-Friendly But At The Same Time Attractive. Moreover, I Add Personal Touch To Your Product And Make Sure That Is Eye-Catching And Easy To Use. My Aim Is To Bring Across Your Message And Identity In The Most Creative Way.
+            I'm Mustakim Nur Salin (RealCodeMind), a teenage frontend developer and UI/UX designer from Dhaka, Bangladesh. I love turning ideas into clean, creative, and user-friendly web experiences. I work with HTML, CSS, and JavaScript to build attractive, functional interfaces. I enjoy simplifying complex problems into intuitive designs and adding a unique personal touch to every project. My goal is to present your message and identity in the most creative and impactful way possible.
           </p>
           {/* Resume Button */}
           <a
