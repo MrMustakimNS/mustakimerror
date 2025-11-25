@@ -18,7 +18,7 @@ const About = () => {
           </h1>
           {/* Name */}
           <h2 className="text-4xl sm:text-5xl md:text-6xl font-bold text-white mb-4 leading-tight">
-            Tarun Kaushik
+            Mustakim Nur Salin
           </h2>
           {/* Skills Heading with Typing Effect */}
           <h3 className="text-xl sm:text-2xl md:text-3xl font-semibold mb-4 text-[#8245ec] leading-tight">
@@ -41,15 +41,11 @@ const About = () => {
           </h3>
           {/* About Me Paragraph */}
           <p className="text-base sm:text-lg md:text-lg text-gray-400 mb-10 mt-8 leading-relaxed">
-            I am a full-stack developer with over 2 years of experience in
-            building scalable web applications. Skilled in both front-end and
-            back-end development, I specialize in the MERN stack and other
-            modern technologies to create seamless user experiences and
-            efficient solutions.
+           I'm "Mustakim Nur Salin" Aka "RealCodeMind"... I'm A Teenager Boy Who Loves To Code. I Started Coding As A Hobby. I Know Much Of Web Development. I Do Only Frontend Coding. I Usually Use HTML, CSS And JavaScript For Frontend. I'm Creative Director And UI/UX Designer From Dhaka, Bangladesh, Working In Web Development And Print Media. I Enjoy Turning Complex Problems Into Simple, Beautiful And Intuitive Designs. My Job Is To Build Your Website So That It Is Functional And User-Friendly But At The Same Time Attractive. Moreover, I Add Personal Touch To Your Product And Make Sure That Is Eye-Catching And Easy To Use. My Aim Is To Bring Across Your Message And Identity In The Most Creative Way.
           </p>
           {/* Resume Button */}
           <a
-            href="https://drive.google.com/file/d/1_pLl2wjYVCU-wnqXIhjhYr0YC0SJXvwv/view?usp=sharing"
+            href="https://blogger.googleusercontent.com/img/a/AVvXsEhVJqUeXTLA5xq3-n2k4ZUPZyhw7_Q736-hwMSJjNaxdwZDhp5K1fLuZXVLxXuMM87VDJQows7lOZyDwWWQ7vvpbxCUerBrv3PhxEfJkigexIf0Cw-IslSvIcx4a6R36l3xZxKZAinGzoLCrNKZCS6oDuuB83xLkD7hco1L_ml0SZN4YqB9MJ8ZkRC44-4=s1600"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block text-white py-3 px-8 rounded-full mt-5 text-lg font-bold transition duration-300 transform hover:scale-105"
